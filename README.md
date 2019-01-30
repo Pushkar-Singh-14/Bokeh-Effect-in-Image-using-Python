@@ -33,9 +33,9 @@ pip install Tracker_HSV
 ```
 For more information on this library Please visit:
 
-py2py: https://py2py.com/Tracker-for-HSV-model-Overview-and-Explanation
-Github: https://github.com/Pushkar-Singh-14/Tracker_HSV
-PyPI: https://pypi.org/project/Tracker-HSV/
+> - py2py: https://py2py.com/Tracker-for-HSV-model-Overview-and-Explanation
+> - Github: https://github.com/Pushkar-Singh-14/Tracker_HSV
+> - PyPI: https://pypi.org/project/Tracker-HSV/
 
 
 
