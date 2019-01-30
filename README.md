@@ -14,7 +14,7 @@ if you are intrested in the working behind the program then visit [py2py](https:
 Documents
 -------------
 
-Liberaies Used
+Libraies Used
 
 
 ```python
